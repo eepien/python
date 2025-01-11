@@ -1,16 +1,5 @@
-commit 9018a41d428bd1a6645320a34c76b56144d01517
-Author: Emmanuel Epie <eepien@gmail.com>
-Date:   Tue Jan 7 23:40:36 2025 +0000
-
-    Additional update to release.md file
-
-diff --git a/release.md b/release.md
-index f7145fc..bbd3eb5 100644
---- a/release.md
-+++ b/release.md
-@@ -1 +1,2 @@
--Release shell info. 
-\ No newline at end of file
-+Release shell info. 
-+Adding more release updates. 
-\ No newline at end of file
+51b4f78bbc4e71a90e4db7cd4a448b18e74f677f Updated change.txt file
+9018a41d428bd1a6645320a34c76b56144d01517 Additional update to release.md file
+64592368901cfd334dca6036ed43ff4b3948818b Added release.md
+0dbf92b824317109f6da306b6da6d2d893f19374 Updated shell.sh and readme.md
+273a10edc9b0618a6678426f52bb138d80ccb8d5 This is my first commit. Shell V1.0.0 Group = Git Project

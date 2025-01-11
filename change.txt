@@ -1,0 +1,28 @@
+commit 51b4f78bbc4e71a90e4db7cd4a448b18e74f677f
+Author: Emmanuel Epie <eepien@gmail.com>
+Date:   Fri Jan 10 18:04:55 2025 +0000
+
+    Updated change.txt file
+
+diff --git a/changes.txt b/changes.txt
+new file mode 100644
+index 0000000..2bae20c
+--- /dev/null
++++ b/changes.txt
+@@ -0,0 +1,16 @@
++commit 9018a41d428bd1a6645320a34c76b56144d01517
++Author: Emmanuel Epie <eepien@gmail.com>
++Date:   Tue Jan 7 23:40:36 2025 +0000
++
++    Additional update to release.md file
++
++diff --git a/release.md b/release.md
++index f7145fc..bbd3eb5 100644
++--- a/release.md
+++++ b/release.md
++@@ -1 +1,2 @@
++-Release shell info. 
++\ No newline at end of file
+++Release shell info. 
+++Adding more release updates. 
++\ No newline at end of file
