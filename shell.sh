@@ -27,4 +27,8 @@ echo $((30+45-11/2))
 read -p "Enter a number: " num1
 read -p "Enter another number: " num2
 ans=$((num1+num2))
-echo " Sum of $num1 and $num2 is $ans" #just adding a comment here. 
+echo " Sum of $num1 and $num2 is $ans" #just adding a comment here. git 
+# 
+#These are just changes on geature/updates. 
+#This is another change to feature/update
+#This is a 3rd change to feature/update
