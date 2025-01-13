@@ -10,3 +10,5 @@ This is to check differences between git diff
 and git diff --cached
 
 #features added: sms, whatsapp, facebook,...etc
+
+Adding feature/upgrade
