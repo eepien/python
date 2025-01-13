@@ -8,3 +8,5 @@ You are free to modify and play with it accordingly.
 New changes made from line 7 - 10 below. 
 This is to check differences between git diff
 and git diff --cached
+
+#features added: sms, whatsapp, facebook,...etc
